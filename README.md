@@ -1,5 +1,6 @@
 ## Oi eu sou Sam de Oliveira ^^
-certificado pela Samsung em Design Thinking, Ux Design, Python e Ciencia de Dados.
+Certificado pela Samsung em Design Thinking, Ux Design, Python e Ciencia de Dados.
+Estudante de Infosec, entusiasta linux, fã de Berserk.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
